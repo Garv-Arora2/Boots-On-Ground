@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+outputs/
+*.egg-info/
+streamlit_run.log
+data/synthetic/*
+!data/synthetic/.gitkeep
+data/satellite/*
+!data/satellite/.gitkeep
